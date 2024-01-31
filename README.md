@@ -1,2 +1,2 @@
-# TEST
-Test FSM CYBER TEAM
+# BAŞLATMA
+cd FSMTERMİNAL.py
